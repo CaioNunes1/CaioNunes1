@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">✨ I'm a Full-Stack Developer based in Recife,PE-Brazil<br>📚 I study Computer Science at UFRPE<br>🎯Goals: To practice programing every day
+<p align="left">✨ I'm a Full-Stack Developer based in Recife,PE-Brazil;<br>📚 I study Computer Science at UFRPE;<br>🎯Goals: To practice programing every day;
 
 ###
 
