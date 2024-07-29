@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">✨ I'm a Full-Stack Developer based in Recife,PE-Brazil;<br>📚 I study Computer Science at UFRPE;<br>🎯Goals: To practice programing every day;
+<p align="left">✨ I'm a Full-Stack Developer based in Recife,PE-Brazil;<br>📚Computer Science student at <a href="https://www.ufrpe.br/">UFRPE</a> ;<br>🎯Goals: To practice programing every day;<br>💻Currently working at <a href="https://foodrec.com.br/" >FoodRec - Comparador de Delivery </a> as a Full-Stack Developer;
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="left"> Main Stacks:</h2>
+<h2 align="left">💻 Main Stacks:</h2>
 
 <div align="left">
   <h3>Front-end</h3>
@@ -48,7 +48,7 @@
   <h3>Workbench</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height=30 alt="MySQL">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height=30 alt="logo Docker">
-<imgsrc="https://camo.githubusercontent.com/be974f9194f7f8848ad75dd6de8154309b749192a876a1ca64488dfcab2593af/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" height="30" alt="PostGres">
+  <img src="https://camo.githubusercontent.com/be974f9194f7f8848ad75dd6de8154309b749192a876a1ca64488dfcab2593af/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" height="30" alt="PostGres">
   <img width="12" />
 </div>
 
