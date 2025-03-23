@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">✨ I'm a Software Test Engineer and Full-Stack Developer based in Recife,PE-Brazil;<br>📚Computer Science student at <a href="https://www.ufrpe.br/">UFRPE</a> ;<br>🎯Goals: To practice programing every day;<br>💻Currently working at <a href="https://www.linkedin.com/company/cinmotorola/" >Projeto/CIn-Motorola </a> as a Software Test Engineer;
+<p align="left">✨ I'm a Software Test Engineer and Full-Stack Developer based in Recife,PE-Brazil;<br>📚Computer Science student at <a href="https://www.ufrpe.br/">UFRPE</a> ;<br>💻Currently working at <a href="https://www.linkedin.com/company/cinmotorola/" >Projeto/CIn-Motorola </a> as a Software Test Engineer;
 
 ###
 
