@@ -42,9 +42,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height=30 alt='logo Java'>
 
+  <h3>Automation</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://imgs.search.brave.com/esP5uWLi0dOXBmWaeWdQgbZ5C6ZDpG09nfDMk9E5WX8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zZWxlbml1/bS1pY29uLTUxMng0/OTYtb2JybnZnMnYu/cG5n" height="30" alt="selenium logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://www.g2.com/pt/products/cypress/pricing" height="30" alt="python logo"  />
+  
   <h3>Workbench</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height=30 alt="MySQL">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height=30 alt="logo Docker">
