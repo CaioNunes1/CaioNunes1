@@ -16,8 +16,8 @@ Software Test Engineer & Full-Stack Developer based in **Recife, PE – Brazil**
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaioNunes1&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioNunes1&layout=compact&langs_count=6&theme=dracula" height="160" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioNunes1&show_icons=true&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioNunes1&layout=compact&theme=dracula)
 </div>
 
 ---
