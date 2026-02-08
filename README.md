@@ -8,8 +8,8 @@ Software Test Engineer & Full-Stack Developer based in **Recife, PE – Brazil**
 
 * ✨ Software Test Engineer and Full-Stack Developer
 * 🎓 Computer Science student at **[UFRPE](https://www.ufrpe.br/)**
-* 🧪 Currently working at **[Projeto CIn–Motorola](https://www.linkedin.com/company/cinmotorola/)** as a Software Test Engineer
-* 💡 Strong interest in **quality, automation, APIs and scalable back-end systems**
+* 🧪 Currently working at **[SENAI ISI-TICS]([https://www.linkedin.com/company/cinmotorola/](https://www.pe.senai.br/isi-tics/))** as a QA Software Engineer
+* 💡 Strong interest in **quality, automation, APIs and scalable Full stack systems**
 
 ---
 
